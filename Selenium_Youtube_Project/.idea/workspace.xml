@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cca21bc4-ae5c-481c-bd08-0a1ea88d1dc7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Java8_Features_Practice/src/main/java/com/example/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java8_Features_Practice/src/main/java/com/example/Dummy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java8_Features_Practice/src/main/java/com/example/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java8_Features_Practice/src/main/java/com/example/EmployeeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java8_Features_Practice/src/main/java/com/example/FunctionalInterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java8_Features_Practice/src/main/java/com/example/FunctionalInterfaceExampleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java8_Features_Practice/src/main/java/com/example/StreamApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java8_Features_Practice/src/main/java/com/example/StreamApiAiQuestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_framework_practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/practice/selenium/AlertsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/practice/selenium/Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Filpkart_QA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Filpkart_QA/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Filpkart_QA/.idea/hybrisProjectSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Filpkart_QA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Filpkart_QA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Filpkart_QA/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Junit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Junit/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Junit/.idea/hybrisProjectSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Junit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Junit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Junit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Junit/src/test/java/AllAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Junit/src/test/java/NestedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Junit/src/test/java/Parameterization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Junit/src/test/java/parallelExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Junit/src/test/resources/junit-platform.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Selenium_Project_Practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Selenium_Project_Practice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Selenium_Project_Practice/.idea/hybrisProjectSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Selenium_Project_Practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Selenium_Project_Practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Selenium_Project_Practice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Selenium_Project_Practice/src/test/java/CssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/Selenium_Project_Practice/src/test/java/Xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/untitled/.idea/hybrisProjectSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project_mckesson_AQA/b2b-connect-ordering-ngo-ordering-next-gen-svc/untitled/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2h5fpa21iaDulNXy2xgLWmVNBQJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ActionsClass.executor": "Run",
+    "Application.BasicHtmlControls.executor": "Run",
+    "Application.CaptureScreenShot.executor": "Run",
+    "Application.HandlingDatePickers.executor": "Run",
+    "Application.HandlingMouseActions.executor": "Run",
+    "Application.HandlingSliders.executor": "Run",
+    "Application.ImplicitWait.executor": "Run",
+    "Application.JavascriptExcecutorSimpleExample.executor": "Run",
+    "Application.Locators.executor": "Run",
+    "Application.NavigationMethods.executor": "Run",
+    "Application.PageLoadTime.executor": "Run",
+    "Application.ReadingDataFromXcel.executor": "Run",
+    "Application.ScrollingUsingJavascriptExecutor.executor": "Run",
+    "Application.SendingKeysUsingJavascriptExecutor.executor": "Run",
+    "Application.SimpleXpathExample.executor": "Run",
+    "Application.WritingDataToExcel.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.AlertsHandle.show.executor": "Run",
+    "TestNG.AlertsPractice.confirmAlert.executor": "Run",
+    "TestNG.AlertsPractice.executor": "Run",
+    "TestNG.AlertsPractice.promptAlert.executor": "Run",
+    "TestNG.BasicPlainHtmlDropDownControls.display.executor": "Run",
+    "TestNG.BasicPlainHtmlDropDownControls.executor": "Run",
+    "TestNG.DynamicPaginationTable.dynamicPaginationTable.executor": "Run",
+    "TestNG.FileUploading.fileUpload.executor": "Run",
+    "TestNG.HandlingAuthenticatedAlert.authenticatedAlert.executor": "Run",
+    "TestNG.HandlingAutoSuggestionDropDown.autoSuggestDropdown.executor": "Run",
+    "TestNG.HandlingBrokenLinks.test.executor": "Run",
+    "TestNG.HandlingDatePickers.handleDate.executor": "Run",
+    "TestNG.HandlingKeyboardActions.keyBoardActions.executor": "Run",
+    "TestNG.HandlingOfFrames.executor": "Run",
+    "TestNG.HandlingOfFrames.frame.executor": "Run",
+    "TestNG.HandlingOfMultipleWindows.disp.executor": "Run",
+    "TestNG.HandlingSSLCertificates.test.executor": "Run",
+    "TestNG.HandlingSVGElements.handleSVGElements.executor": "Run",
+    "TestNG.HandlingSliders.handleSlider.executor": "Run",
+    "TestNG.HandlingStaticTable.addPriceOfBook.executor": "Run",
+    "TestNG.HandlingStaticTable.staticTable.executor": "Run",
+    "TestNG.HeadlessTesting.test.executor": "Run",
+    "TestNG.JavascriptExecutorExample.javascipt.executor": "Run",
+    "TestNG.LaunchingIncognitoMode.test.executor": "Run",
+    "TestNG.Locators.executor": "Run",
+    "TestNG.RelativeLocatorss.test.executor": "Run",
+    "TestNG.ShadowDomElements.shadowDom.executor": "Run",
+    "TestNG.TabsAndWindows.test.executor": "Run",
+    "TestNG.TakingScreenShot.takescreenshot.executor": "Run",
+    "TestNG.javascriptExecutor1.javascipt.executor": "Run",
+    "TestNG.openingRegisterPageInNewTab.test.executor": "Run",
+    "git-widget-placeholder": "Prompt__Report",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ritish_babu/Desktop/New folder/Selenium_Youtube_Project/target/data",
+    "onboarding.tips.debug.path": "C:/Users/ritish_babu/Desktop/New folder/Selenium_Youtube_Project/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ritish_babu\Desktop\New folder\Selenium_Youtube_Project\target\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RelativeLocatorss.test">
+    <configuration name="NavigationMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.selenium.NavigationMethods" />
+      <module name="Selenium_Youtube_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlingAuthenticatedAlert.authenticatedAlert" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Youtube_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.selenium.sdet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.selenium.sdet" />
+      <option name="MAIN_CLASS_NAME" value="org.selenium.sdet.HandlingAuthenticatedAlert" />
+      <option name="METHOD_NAME" value="authenticatedAlert" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlingOfMultipleWindows.disp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Youtube_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.selenium" />
+      <option name="MAIN_CLASS_NAME" value="org.selenium.HandlingOfMultipleWindows" />
+      <option name="METHOD_NAME" value="disp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlingSSLCertificates.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Youtube_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.selenium.sdet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.selenium.sdet" />
+      <option name="MAIN_CLASS_NAME" value="org.selenium.sdet.HandlingSSLCertificates" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelativeLocatorss.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Youtube_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.selenium.sdet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.selenium.sdet" />
+      <option name="MAIN_CLASS_NAME" value="org.selenium.sdet.RelativeLocatorss" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RelativeLocatorss.test" />
+        <item itemvalue="TestNG.HandlingSSLCertificates.test" />
+        <item itemvalue="TestNG.HandlingAuthenticatedAlert.authenticatedAlert" />
+        <item itemvalue="Application.NavigationMethods" />
+        <item itemvalue="TestNG.HandlingOfMultipleWindows.disp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cca21bc4-ae5c-481c-bd08-0a1ea88d1dc7" name="Changes" comment="" />
+      <created>1716889044465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716889044465</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/org/selenium/ActionsClass.java</url>
+          <line>13</line>
+          <properties class="org.selenium.ActionsClass" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
