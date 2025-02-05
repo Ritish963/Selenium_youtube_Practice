@@ -1,0 +1,44 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    // Selenium dependencies
+     // Replace with the latest version
+
+    // WebDriver binaries for Chrome (you can add others as needed)
+
+
+    // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+    implementation 'org.seleniumhq.selenium:selenium-java:4.28.0'
+
+    // https://mvnrepository.com/artifact/io.cucumber/cucumber-testng
+    implementation 'io.cucumber:cucumber-testng:7.20.1'
+
+
+    // Replace with the latest version
+
+    // Apache POI dependencies
+    implementation 'org.apache.poi:poi:5.2.5'
+    implementation 'org.apache.poi:poi-ooxml:5.2.5' // Latest version
+
+    // Cucumber dependencies
+    implementation 'io.cucumber:cucumber-java:7.0.0' // Replace with the latest version
+    implementation 'io.cucumber:cucumber-junit:7.0.0' // Replace with the latest version
+
+    // JUnit dependency for running tests
+    testImplementation 'junit:junit:4.13.2' // Replace with the latest versio
+}
+
+test {
+    useJUnitPlatform()
+}
